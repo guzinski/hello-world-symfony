@@ -1,0 +1,4 @@
+index:
+    path: /api/hello-world
+    controller: App\Controller\DefaultController::index
+    methods: GET
